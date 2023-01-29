@@ -1,4 +1,4 @@
-# Complex_Prediction_Model
+# Price_Prediction_Models
 Basic to complex prediction model using exhaustive selector &amp; Lasso CV 
 
 # AIRFARE Dataset - Predicting airline fare
